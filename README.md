@@ -5,4 +5,4 @@ Deep Learning 2024 of Rafael:
 
 2/ HuggingFace models.
 
-3/ Other new Deep Learning resources.
+3/ Other DL on github.
