@@ -1,8 +1,8 @@
 # dl24-rafael
 Deep Learning 2024 of Rafael:
 
-1/ D2L Samples codes.
+1/ Dive into Deep Learning Book.
 
-2/ HuggingFace models.
+2/ HuggingFace + Github.
 
-3/ Other DL on github.
+3/ Some other foundation like Math.
