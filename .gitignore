@@ -38,3 +38,6 @@ Thumbs.db
 
 # jupyter checkpoint files
 .ipynb_checkpoints
+
+# pycache
+__pycache__
