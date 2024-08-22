@@ -1,5 +1,6 @@
-# dl24-rafael
-Deep Learning 2024 of Rafael:
+# Quick Start of Deep Learning
+
+Quick Start of Deep Learning 2024 of Rafael:
 
 1/ Dive into Deep Learning Book.
 
